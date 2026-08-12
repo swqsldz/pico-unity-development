@@ -1,0 +1,4 @@
+interface:
+  display_name: "PICO Unity 开发"
+  short_description: "PICO Unity XR 集成、构建与故障排查"
+  default_prompt: "Use $pico-unity-development to implement and verify this PICO Unity XR task against locally refreshed official documentation."

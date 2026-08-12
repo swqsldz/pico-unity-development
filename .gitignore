@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+skills/pico-unity-development/references/docs/
+skills/pico-unity-development/references/sources/
+skills/pico-unity-development/references/catalog.md
+skills/pico-unity-development/references/source-meta.json
